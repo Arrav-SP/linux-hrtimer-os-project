@@ -1,0 +1,14 @@
+# Compiled binaries
+build/*
+!build/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+.vscode/
