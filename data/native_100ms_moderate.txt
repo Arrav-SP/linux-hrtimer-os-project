@@ -1,0 +1,13 @@
+
+===== TIMER SUMMARY =====
+Requested delay: 100000000 ns
+Trials:          500
+Mean error:      64176.49 ns
+Median (p50):    59402 ns
+p90 error:       62233 ns
+p95 error:       63918 ns
+p99 error:       159194 ns
+Minimum error:   13698 ns
+Maximum error:   833616 ns
+Std deviation:   53099.05 ns
+=========================
