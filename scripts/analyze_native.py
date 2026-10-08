@@ -111,7 +111,7 @@ results.sort(
 # Write full summary CSV
 output_file = os.path.join(
     OUTPUT_DIR,
-    "wsl2_summary.csv"
+    "native_summary.csv"
 )
 
 fields = list(results[0].keys())

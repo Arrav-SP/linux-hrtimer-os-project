@@ -1,0 +1,7 @@
+env,load,n,n_over_1ms,pct_over_1ms,pct_below_50us,max_us
+native,idle,2000,12,0.600,1.200,2892.598
+native,moderate,2000,0,0.000,4.550,997.210
+native,heavy,2000,47,2.350,3.950,33323.730
+wsl2,idle,2000,29,1.450,0.450,3907.874
+wsl2,moderate,2000,5,0.250,0.350,5030.659
+wsl2,heavy,2000,57,2.850,0.350,10831.143
